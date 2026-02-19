@@ -1,0 +1,7 @@
+[project]
+name = "apob"
+version = "0.1.0"
+description = "Calculates your ApoB score."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
