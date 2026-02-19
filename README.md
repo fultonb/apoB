@@ -37,6 +37,7 @@ Commands to run code:
 % chmod +x apob.py 
 % uv run pytest -sv
 % uv run apob.py
+% uv run apob.py -tc 155 -hdlc 30 -tg 135
 % uv run apob.py -tc 190
                or
 % ./apob.py
